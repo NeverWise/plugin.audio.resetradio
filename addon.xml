@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.resetradio" name="Reset Radio" version="1.0.1" provider-name="NeverWise">
+<addon id="plugin.audio.resetradio" name="Reset Radio" version="1.0.2" provider-name="NeverWise">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.neverwise" version="1.0.2"/>
+    <import addon="script.module.neverwise" version="1.0.3"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>audio</provides>
@@ -20,6 +20,6 @@
     <forum></forum>
     <website></website>
     <email></email>
-    <source>https://github.com/NeverWise/plugin.resetradio</source>
+    <source>https://github.com/NeverWise/plugin.audio.resetradio</source>
   </extension>
 </addon>
