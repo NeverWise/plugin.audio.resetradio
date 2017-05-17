@@ -1,5 +1,5 @@
 [B]Version 1.0.3[/B]
-- Bump to kodi v17 Krypton
+- Small bugfix/improvements.
 
 [B]Version 1.0.2[/B]
 - Small improvements.
